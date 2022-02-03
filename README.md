@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Kass </h2>
+## 👋 Hi there! I'm Kass
 -- MORE COMING SOON --
 
 ### 👩‍💻 🏳️‍🌈 🏳️‍⚧️
