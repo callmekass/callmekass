@@ -1,6 +1,7 @@
 ## 👋 Hi there! I'm Kass </h2>
 -- MORE COMING SOON --
-<hr>
+
+### 👩‍💻 🏳️‍🌈 🏳️‍⚧️
 
 <div align="right">
     <a href="https://github.com/CallMeKass/"><img style="display: inline-block;width: 42px;height: 42px;"; src="icons/github.png" alt="github user: CallMeKass"></a>
