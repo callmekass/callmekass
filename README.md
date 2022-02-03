@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Kass
 -- MORE COMING SOON --
 
-🚺 - Woman in STEM - 👩‍💻
+🚺 - Woman in STEM - 👩‍💻  
 🏳️‍🌈 - LGBT Proud - 🏳️‍⚧️
 <hr>
 
