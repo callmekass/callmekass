@@ -16,7 +16,7 @@ I'm Kass, glad to see you stopped by!
     <!-- LeetCode -->
     <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
     <!-- Discord -->
-    <a href="https://discordapp.com/users/Cooties#3015/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
+    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
     <!-- Snapchat -->
     <a href="https://www.snapchat.com/add/kassidyjo97/"><img width="52px"; src="assets/social-snapchat.png" alt="leetcode user: 0xCA55"></a>
     <!-- Spotify -->
