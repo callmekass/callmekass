@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Kass  
+# 👋 Hi there! I'm Kass  
 Glad to see you stopped by! Here's some more information about me:  
 🎓 - Senior Computer Science student at the [University of Northern Iowa](https://uni.edu/)  
 👩‍💻 - Currently employeed as a LiveOps Software Engineering Intern at [SciPlay](https://www.sciplay.com/)  
