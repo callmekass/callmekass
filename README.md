@@ -9,7 +9,16 @@ I'm Kass, glad to see you stopped by!
 
 ## Social Media
 <div>
-    <a href="https://github.com/CallMeKass/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-github.png" alt="github user: CallMeKass"></a>
-    <a href="https://discordapp.com/users/Cooties#3015/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
+    <!--GitHub -->
+    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="github user: CallMeKass"></a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/kassidy-h-495809176/"><img width="52px"; src="assets/social-linkedin.png" alt="leetcode user: 0xCA55"></a>
+    <!-- LeetCode -->
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
+    <!-- Discord -->
+    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
+    <!-- Snapchat -->
+    <a href="https://www.snapchat.com/add/kassidyjo97/"><img width="52px"; src="assets/social-snapchat.png" alt="leetcode user: 0xCA55"></a>
+    <!-- Spotify -->
+    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt="leetcode user: 0xCA55"></a>
 </div>
