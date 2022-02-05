@@ -2,7 +2,7 @@
 -- MORE COMING SOON --
 
 🚺 - Woman in STEM - 👩‍💻  
-🏳️‍🌈 - LGBT Proud - 🏳️‍⚧️
+🏳️‍🌈 - ✨ Le Queer ✨ - 🏳️‍⚧️
 <hr>
 
 <div align="right">
