@@ -12,7 +12,7 @@ I'm Kass, glad to see you stopped by!
     <!--GitHub -->
     <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="github user: CallMeKass"></a>
     <!-- LinkedIn -->
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-linkedin.png" alt="leetcode user: 0xCA55"></a>
+    <a href="https://www.linkedin.com/in/kassidy-h-495809176/"><img width="52px"; src="assets/social-linkedin.png" alt="leetcode user: 0xCA55"></a>
     <!-- LeetCode -->
     <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
     <!-- Discord -->
