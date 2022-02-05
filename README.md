@@ -8,7 +8,8 @@ I'm Kass, glad to see you stopped by!
 🚺 - Woman in STEM  
 
 ## Social Media
-    <a href="https://github.com/CallMeKass/"><img style="display: inline-block;width: 42px;height: 42px;"; src="icons/github.png" alt="github user: CallMeKass"></a>
-    <a href="https://discordapp.com/users/TheBiggestYikes#3015/"><img style="display: inline-block;width: 42px;height: 42px;"; src="icons/discord.png" alt="discord user: TheBiggestYikes#3015"></a>
-    <a href="https://leetcode.com/0xCA55/"><img style="display: inline-block;width: 42px;height: 42px;"; src="icons/leetcode.png" alt="leetcode user: 0xCA55"></a>
+<div display="inline-block">
+    <a href="https://github.com/CallMeKass/"><img style="width: 42px;height: 42px;"; src="icons/github.png" alt="github user: CallMeKass"></a>
+    <a href="https://discordapp.com/users/Cooties#3015/"><img style="width: 42px;height: 42px;"; src="icons/discord.png" alt="discord user: Cooties#3015"></a>
+    <a href="https://leetcode.com/0xCA55/"><img style="width: 42px;height: 42px;"; src="icons/leetcode.png" alt="leetcode user: 0xCA55"></a>
 </div>
