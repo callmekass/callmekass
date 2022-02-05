@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/wave.gif" width="40px"> Hi There!  
+# <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/wave.gif" width="30px"> Hi There!  
 I'm Kass, glad to see you stopped by!
 
 ## About Me
