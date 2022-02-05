@@ -9,7 +9,16 @@ I'm Kass, glad to see you stopped by!
 
 ## Social Media
 <div>
-    <a href="https://github.com/CallMeKass/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-github.png" alt="github user: CallMeKass"></a>
+    <!--GitHub -->
+    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="github user: CallMeKass"></a>
+    <!-- LinkedIn -->
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-linkedin.png" alt="leetcode user: 0xCA55"></a>
+    <!-- LeetCode -->
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
+    <!-- Discord -->
     <a href="https://discordapp.com/users/Cooties#3015/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
+    <!-- Snapchat -->
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-snapchat.png" alt="leetcode user: 0xCA55"></a>
+    <!-- Spotify -->
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-spotify.png" alt="leetcode user: 0xCA55"></a>
 </div>
