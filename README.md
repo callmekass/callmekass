@@ -20,5 +20,5 @@ I'm Kass, glad to see you stopped by!
     <!-- Snapchat -->
     <a href="https://www.snapchat.com/add/kassidyjo97/"><img width="52px"; src="assets/social-snapchat.png" alt="leetcode user: 0xCA55"></a>
     <!-- Spotify -->
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-spotify.png" alt="leetcode user: 0xCA55"></a>
+    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt="leetcode user: 0xCA55"></a>
 </div>
