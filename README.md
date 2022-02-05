@@ -1,8 +1,9 @@
-## 👋 Hi there! I'm Kass
--- MORE COMING SOON --
-
-🚺 - Woman in STEM - 👩‍💻  
-🏳️‍🌈 - ✨ Le Queer ✨ - 🏳️‍⚧️
+## 👋 Hi there! I'm Kass  
+Glad to see you stopped by! Here's some more information about me:  
+🎓 - Senior Computer Science student at the [University of Northern Iowa](https://uni.edu/)  
+👩‍💻 - Currently employeed as a LiveOps Software Engineering Intern at [SciPlay](https://www.sciplay.com/)  
+🦾 - I would love the opportunity to use my skills in a way that will improve the lives of disabled individuals  
+🚺 - Woman in STEM  
 <hr>
 
 <div align="right">
