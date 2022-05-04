@@ -3,8 +3,11 @@ I'm Kass, glad to see you stopped by!
 
 ## About Me
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/graduation-cap.png" width="24px"> Senior Computer Science student at the [University of Northern Iowa](https://uni.edu/)  
+
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/woman-technologist.png" width="24px"> Currently employeed as a LiveOps Software Engineering 
+
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/mechanical-arm.png" width="24px"> I would love the opportunity to use my skills in a way that will improve the lives of people with disabilities  
+
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/transgender-female.png" width="24px"> Woman in STEM  
 
 ## Social Media
