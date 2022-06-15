@@ -4,7 +4,7 @@ I'm Kass, glad to see you stopped by!
 ## About Me
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/graduation-cap.png" width="24px"> Computer Science Alumna from the [University of Northern Iowa](https://uni.edu/)  
 
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/woman-technologist.png" width="24px"> Currently employeed as a LiveOps Software Engineering 
+<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/woman-technologist.png" width="24px"> Currently working as a Web Programmer and Analyst at the University of Northern Iowa
 
 <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/mechanical-arm.png" width="24px"> I would love the opportunity to use my skills in a way that will improve the lives of people with disabilities  
 
