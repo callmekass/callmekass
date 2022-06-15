@@ -13,11 +13,11 @@ I'm Kass, glad to see you stopped by!
 ## Social Media
 <div>
     <!--GitHub -->
-    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="github user: CallMeKass"></a>
+    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="link to my GitHub"></a>
     <!-- LeetCode -->
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
+    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="link to my LeetCode"></a>
     <!-- Discord -->
-    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
+    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="link to my Discord"></a>
     <!-- Spotify -->
-    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt=" user: 0xCA55"></a> 
+    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt="link to my Spotify"></a> 
 </div>
