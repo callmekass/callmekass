@@ -1,23 +1,14 @@
-# <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/wave.gif" width="30px" height="30px"> Hi There!  
-I'm Kass, glad to see you stopped by!
+<!-- @format -->
+<h1>
+<img src="assets/wave.gif" width="30px" height="30px"> 
+Hey, I'm Kassie!
+</h1>
 
-## About Me
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/graduation-cap.png" width="24px"> Computer Science Alumna from the [University of Northern Iowa](https://uni.edu/)  
+_Full Stack Web Developer and Program Analyst at [University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/woman-technologist.png" width="24px"> Currently working as a Web Programmer and Analyst at the University of Northern Iowa
+<h3>Languages and Tools:</h3>
+HTML, CSS, JavaScript, TypeScript, Java, Python, React, Node.js, Angular, Spring Boot
 
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/mechanical-arm.png" width="24px"> I would love the opportunity to use my skills in a way that will improve the lives of people with disabilities  
+---
 
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/transgender-female.png" width="24px"> Woman in STEM  
-
-## Social Media
-<div>
-    <!--GitHub -->
-    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="link to my GitHub"></a>
-    <!-- LeetCode -->
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="link to my LeetCode"></a>
-    <!-- Discord -->
-    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="link to my Discord"></a>
-    <!-- Spotify -->
-    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt="link to my Spotify"></a> 
-</div>
+Check out [My Website](https://www.sprinkleweb.com) for more info.
