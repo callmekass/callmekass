@@ -4,7 +4,7 @@
 Hey, I'm Kassie!
 </h1>
 
-_Full Stack Web Developer and Analyst at [University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
+_Full Stack Web Developer and Program Analyst at [University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
 <h3>Languages and Tools:</h3>
 HTML, CSS, JavaScript, TypeScript, Java, Python, React, Node.js, Angular, Spring Boot,
