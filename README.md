@@ -9,6 +9,6 @@ _Full Stack Web Developer and Program Analyst at [University of Northern Iowa](h
 <h3>Languages and Tools:</h3>
 HTML, CSS, JavaScript, TypeScript, Java, Python, React, Node.js, Angular, Spring Boot
 
-<hr>
+---
 
 Check out [My Website](https://www.sprinkleweb.com) for more info.
