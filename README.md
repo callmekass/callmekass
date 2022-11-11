@@ -9,7 +9,7 @@ _Full Stack Web Developer and Program Analyst at [University of Northern Iowa](h
 <h3>Languages:</h3>
 HTML, CSS, JavaScript, TypeScript, Java, Python 
 
-<h3> Frameworks and Tools:
+<h3> Frameworks and Tools:</h3>
 React, Angular, Node.js, Spring Boot, Docker, SQL 
 
 ---
