@@ -9,7 +9,7 @@ _Full Stack Web Developer and Programmer Analyst at [University of Northern Iowa
 <h3>ABOUT ME</h3>
 
 - ⚡ Currently learning the MERN stack
-- 🤖 Network security hobbyist
+- 🤖 Network security enthusiast
 - 👩‍💻 Proud woman in STEM
 - 🌱 I like plants
 
