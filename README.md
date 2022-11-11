@@ -8,10 +8,23 @@ _Full Stack Web Developer and Programmer Analyst at [University of Northern Iowa
 
 <h3>ABOUT ME</h3>
 
-- ⚡ Currently learning the MERN stack
-- 🤖 Network security enthusiast
-- 👩‍💻 Proud woman in STEM
-- 🌱 I like plants
+```javascript
+class CallMeKass {
+  constructor() {
+    this.name = "Kassie";
+    this.current_work = "Full Stack Web Developer";
+    this.hireable = true;
+  }
+  hobbies() {
+    return [
+      "Gardening",
+      "Programming",
+      "Watching horror movies",
+      "Spending hours chasing that ONE BUG...",
+    ];
+  }
+}
+```
 
 <h3>PROGRAMMING LANGUAGES</h3>
 HTML, CSS, JavaScript, TypeScript, Java, Python
