@@ -13,14 +13,14 @@ class CallMeKass {
   constructor() {
     this.name = "Kassie";
     this.current_work = "Full Stack Web Developer";
-    this.hireable = true;
+    this.super_cool = true;
   }
   hobbies() {
     return [
       "Gardening",
       "Programming",
-      "Watching horror movies",
-      "Spending hours chasing that ONE BUG...",
+      "Kayaking",
+      "Working out",
     ];
   }
 }
