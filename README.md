@@ -1,26 +1,23 @@
 <!-- @format -->
 <h1>
 <img src="assets/wave.gif" width="30px" height="30px"> 
-Hey, I'm Kassie!
+Hey, I'm Kass!
 </h1>
 
-_Full Stack Web Developer and Programmer Analyst at [University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
+_Full Stack Web Developer at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
 <h3>ABOUT ME</h3>
 
 ```javascript
-class CallMeKass {
+const CallMeKass = class {
   constructor() {
-    this.name = "Kassie";
-    this.current_work = "Full Stack Web Developer";
-    this.super_cool = true;
-  }
-  hobbies() {
-    return [
-      "Gardening",
-      "Programming",
+    this.name = "Kass";
+    this.title = "Web Developer";
+    this.location = "Iowa";
+    this.hobbies = [
+      "Cooking",
       "Kayaking",
-      "Working out",
+      "Gardening",
     ];
   }
 }
