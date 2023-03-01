@@ -1,24 +1,37 @@
-# <img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/wave.gif" width="30px"> Hi There!  
-I'm Kass, glad to see you stopped by!
+## Hey, I'm Kass!
 
-## About Me
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/graduation-cap.png" width="24px"> Senior Computer Science student at the [University of Northern Iowa](https://uni.edu/)  
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/woman-technologist.png" width="24px"> Currently employeed as a LiveOps Software Engineering Intern at [SciPlay](https://www.sciplay.com/)  
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/mechanical-arm.png" width="24px"> I would love the opportunity to use my skills in a way that will improve the lives of people with disabilities  
-<img src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/transgender-female.png" width="24px"> Woman in STEM  
+_Full Stack Web Developer at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
-## Social Media
-<div>
-    <!--GitHub -->
-    <a href="https://github.com/CallMeKass/"><img width="52px"; src="assets/social-github.png" alt="github user: CallMeKass"></a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/kassidy-h-495809176/"><img width="52px"; src="assets/social-linkedin.png" alt="leetcode user: 0xCA55"></a>
-    <!-- LeetCode -->
-    <a href="https://leetcode.com/CallMeKass/"><img width="52px"; src="assets/social-leetcode.png" alt="leetcode user: 0xCA55"></a>
-    <!-- Discord -->
-    <a href="https://discordapp.com/users/427971150530740235/"><img width="52px"; src="https://raw.githubusercontent.com/CallMeKass/CallMeKass/main/assets/social-discord.png" alt="discord user: Cooties#3015"></a>
-    <!-- Snapchat -->
-    <a href="https://www.snapchat.com/add/kassidyjo97/"><img width="52px"; src="assets/social-snapchat.png" alt="leetcode user: 0xCA55"></a>
-    <!-- Spotify -->
-    <a href="https://open.spotify.com/user/313qrymvwbrdljocgr6t44fgbh4q"><img width="52px"; src="assets/social-spotify.png" alt="leetcode user: 0xCA55"></a>
-</div>
+### ABOUT ME
+
+```javascript
+const CallMeKass = class {
+  constructor() {
+    this.name = "Kass";
+    this.title = "Web Developer";
+    this.location = "Iowa";
+    this.hobbies = ["Cooking", "Kayaking", "Gardening"];
+  }
+};
+```
+
+### PROGRAMMING LANGUAGES // FRAMEWORKS // LIBRARIES // TOOLS
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%234D4D4D.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+Check out [My Website](https://www.sprinkleweb.com) for more info.
