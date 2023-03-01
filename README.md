@@ -1,6 +1,6 @@
 ## Hey, I'm Kass!
 
-_Full Stack Web Developer at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
+_Web Developer and Programmer Analyst at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
 ### ABOUT ME
 
