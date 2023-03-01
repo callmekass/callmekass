@@ -9,8 +9,8 @@ const CallMeKass = class {
   constructor() {
     this.name = "Kass";
     this.title = "Web Developer";
-    this.location = "Iowa";
-    this.hobbies = ["Cooking", "Kayaking", "Gardening"];
+    this.location = "Cedar Falls, Iowa";
+    this.hobbies = ["Cooking", "Kayaking", "Gardening", "Programming"];
   }
 };
 ```
