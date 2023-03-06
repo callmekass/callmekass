@@ -2,8 +2,6 @@
 
 _Web Developer and Programmer Analyst at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
-### ABOUT ME
-
 ```javascript
 const CallMeKass = class {
   constructor() {
@@ -14,8 +12,6 @@ const CallMeKass = class {
   }
 };
 ```
-
-### PROGRAMMING LANGUAGES // FRAMEWORKS // LIBRARIES // TOOLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
