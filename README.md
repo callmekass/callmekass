@@ -8,7 +8,12 @@ const CallMeKass = class {
     this.name = "Kass";
     this.title = "Web Developer";
     this.location = "Cedar Falls, Iowa";
-    this.hobbies = ["Cooking", "Kayaking", "Gardening", "Programming"];
+    this.interests = [
+      "Movies",
+      "Plants", 
+      "Graphic Design",
+      "Software Development"
+    ];
   }
 };
 ```
