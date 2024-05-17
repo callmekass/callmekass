@@ -5,15 +5,9 @@ _Web Developer and Programmer Analyst at [The University of Northern Iowa](https
 ```javascript
 const AboutMe = class {
   constructor() {
-    this.name = "Kass";
-    this.title = "Web Developer";
-    this.location = "Cedar Falls, Iowa";
-    this.interests = [
-      "Movies",
-      "Plants", 
-      "Graphic Design",
-      "Software Development"
-    ];
+    this.name = 'Kass';
+    this.title = 'Web Developer';
+    this.location = 'Cedar Falls, Iowa';
   }
 };
 ```
