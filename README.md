@@ -2,16 +2,6 @@
 
 _Web Developer and Programmer Analyst at [The University of Northern Iowa](https://www.uni.edu) with a passion for making the web fast and beautiful._
 
-```javascript
-const AboutMe = class {
-  constructor() {
-    this.name = 'Kass';
-    this.title = 'Web Developer';
-    this.location = 'Cedar Falls, Iowa';
-  }
-};
-```
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
